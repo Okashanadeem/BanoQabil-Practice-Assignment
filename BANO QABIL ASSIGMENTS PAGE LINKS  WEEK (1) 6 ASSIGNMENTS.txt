@@ -1,0 +1,27 @@
+BANO QABIL PROJECTS
+
+WEEK ONE: 6 ASSIGNMENT
+
+
+PROJECT 1: MY PROFILE (CV)
+LINK:https://myprofilecv.netlify.app/
+
+
+PROJECT 2: CONFERENCE
+LINK:https://okashanadeemconferencec52912.netlify.app/
+
+
+PROJECT 3: PORTFOLIO OF WORK
+LINK:https://portfolioforworkokashanadeem-c4b12b.netlify.app/
+
+
+PROJECT 4: PRODUCT CATALOG
+LINK:https://productcatalogokashanadeem.netlify.app/
+
+
+PROJECT 5: INFORMATION ABOUT A CITY
+LINK:https://aboutkarachibyokashanadeem.netlify.app/
+
+
+PROJECT 6: BLOG
+LINK:https://okashanadeemblog.netlify.app/
